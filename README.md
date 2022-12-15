@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aariksss
 - 🌱 I’m currently learning Python, Javascript and Im trying to make my own Discord Bot :)
-- Discord Bott#2737
+- My Discord: Bott#2737
